@@ -1,0 +1,29 @@
+body {
+  background: black;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-style: normal;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+  margin-right: 80px;
+}
+
+h2 {
+  color:yellow;
+  font-size: 15px;
+  margin-bottom: 60px;
+  margin-left: 10px;
+  margin-top:0;
+
+}
+p1{
+  color: white;
+  margin-top: 55px
+  width:400px
+
+}
